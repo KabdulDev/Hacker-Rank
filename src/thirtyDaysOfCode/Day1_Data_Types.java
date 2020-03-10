@@ -23,8 +23,8 @@ public class Day1_Data_Types {
 		//System Input
 		num = scnr.nextInt();
 		dec = scnr.nextDouble();
-		scnr.nextLine();
-		word = scnr.nextLine();
+		scnr.nextLine(); //Great reminder that nextLine will return nothing to me unless i have a preceeding line that eats the first invisble \n in the console
+		word = scnr.nextLine(); //
 		
 		
 		//Test assignment for i,d,s
