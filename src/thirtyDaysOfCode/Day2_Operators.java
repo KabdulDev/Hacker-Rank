@@ -35,6 +35,12 @@ package thirtyDaysOfCode;
 import java.util.Scanner;
 import java.math.*;
 public class Day2_Operators {
+	
+	//initially solved everything in the Main Method but reviewing how problem was solved in Hacker Rank made me want to update code for better streamlining of 
+	
+	static void solve(double mealCost, int tipPercent, int taxPercent) {
+		
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
